@@ -1,4 +1,4 @@
-package day29;
+package day29.proxy;
 
 /**
  * 静态代理举例
